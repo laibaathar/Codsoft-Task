@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Quiz Application</string>
+    <string name="Welcome">Welcome</string>
+    <string name="questions">Questions</string>
+    <string name="score">Score:</string>
+    <string name="start_random">Start Random</string>
+    <string name="select">Select</string>
+    <string name="scoree">Score:</string>
+    <string name="_0">0</string>
+    <string name="option_1">option 1</string>
+    <string name="option_2">option 2</string>
+    <string name="option_3">option 3</string>
+    <string name="option_4">option 4</string>
+    <string name="next">NEXT</string>
+    <string name="leave">LEAVE</string>
+    <string name="results">RESULTS</string>
+    <string name="incorrect_answers">Incorrect answers</string>
+    <string name="correct_answers">Correct answers</string>
+    <string name="total">Total</string>
+    <string name="remarks">Remarks</string>
+    <string name="home">HOME</string>
+</resources>
